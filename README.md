@@ -13,9 +13,10 @@ Here are some of the technologies I'm proficient in:
 
 Feel free to connect with me on these platforms:
 
-- [Facebook](https://www.facebook.com/waelmahmoud.d/) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+- [Facebook](https://www.facebook.com/waelmahmoud.d/) 
 - [Mostaql](https://mostaql.com/u/UnderCover)
-- [LinkedIn](https://www.linkedin.com/in/wael-mahmoud-72a08711a/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [GitHub](https://github.com/WaelMz) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- [Khamsat](https://khamsat.com/user/waelsad)
+- [LinkedIn](https://www.linkedin.com/in/wael-mahmoud-72a08711a/) 
+- [GitHub](https://github.com/WaelMz)
 
 Feel free to reach out to us for discussions about backend strategies or anything technology related. I can draw your future facade
